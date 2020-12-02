@@ -1,0 +1,4 @@
+AuthUserFile /papawebsite/watch.html/.htpasswd
+AuthName "Watch"
+AuthType Basic
+require valid-user
